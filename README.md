@@ -32,7 +32,7 @@ Access to API documentation, wikis, and ST support channels
 
 **Reference Projects & Files**
 -----------------------------------------
-1) **NUCLEO-G0B1RE Port:** This folder contains the complete working project of the BLE_Commissioning_app on the NUCLEO-G0B1RE as a host MCU with ST67.
+1) **ST67_G0_BLE_Commissioning_App:** This folder contains the complete working project of the BLE_Commissioning_app on the NUCLEO-G0B1RE as a host MCU with ST67.
 
 NOTE: This is a hands-on session and will be covered step-by-step during the training. The project is provided as a reference implementation.
 
