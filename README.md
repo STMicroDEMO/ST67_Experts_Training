@@ -44,6 +44,10 @@ NOTE: This is a hands-on session and will be covered step-by-step during the tra
    
    b) ST67_Experts_Training_Prerequisites.pdf (Software Prerequisties to be installed before the training)
 
+4) **Resources**
+
+   a) **NCP_update_mission_profile_t01_U5A5ZJ-Q.bat:** This .bat script is ussed to flash the ST67 with mission profile mode using NUCLEO-U5A5ZJ-Q as host MCU.
+
 **Documentation & Resources**
 ---------------------------------------
 API Documentation:
